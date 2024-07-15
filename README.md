@@ -9,7 +9,7 @@ Simple omelette recipe is an An easy and quick dish, perfect for any meal. This 
   src="./design/Result.PNG"
   alt="banner"
   title="Recipe page"
-  style="display: inline-block; margin: 0 auto; max-width: 500px"
+  style="display: inline-block; margin: 0 auto; width: 100%;"
   />
 </a>
 

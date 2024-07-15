@@ -4,7 +4,7 @@ Simple omelette recipe is an An easy and quick dish, perfect for any meal. This 
 
 <br>
 <br>
-<a href="https://youtubeclone1123.netlify.app/">
+<a href="https://ahmed-abo-rafat.github.io/Recipe-page/">
   <img
   src="./design/Result.PNG"
   alt="banner"
@@ -17,7 +17,7 @@ Simple omelette recipe is an An easy and quick dish, perfect for any meal. This 
 
 ## Live Site:
 
-- Link: https://youtubeclone1123.netlify.app/
+- Link: https://ahmed-abo-rafat.github.io/Recipe-page/
 
 ## Features
 

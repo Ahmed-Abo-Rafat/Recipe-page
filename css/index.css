@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: #795548;
+    font-size: 35px;
+}
+p, 
+li {
+    font-size: 25px;
+    color: #000000ad;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.container .head-image img {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.container .head-text {
+    padding: 15px;
+}
+.container .head-text h2 {
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 40px 0;
+}
+@media only screen and (max-width: 768px) { /* use mida to make rduce the size*/
+    .container .head-text h2 {
+      font-size: 40px;
+    }
+}
+.container .head-text p {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.container .head-pre {
+    background-color: #e91e6336;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.container .head-pre h3 {
+    color: #9c27b0a8;
+    font-weight: bolder;
+    
+}
+.container .head-pre ul {
+    font-size: 25px;
+    padding: 20px;
+}
+.container .head-pre ul li {
+    padding: 5px 0;
+}
+.container .head-pre ul li span {
+    color: black;
+    font-weight: bolder;
+}
+
+.container .head-ing {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.container .head-ing ul{
+    padding: 15px;
+}
+.container .head-ing ul li {
+    padding: 5px;
+    margin-left: 25px;
+}
+
+.container .head-inst {
+    padding: 10px;
+    margin: 25px 0;
+}
+.container .head-inst ul {
+    padding: 10px;
+    list-style-type: number;
+}
+.container .head-inst ul li {
+    padding: 5px;
+    margin-left: 25px;
+}
+.container .head-inst ul li span {
+    color: black;
+    font-weight: bolder;
+}
+.container .head-nut {
+    padding: 10px;
+    margin: 25px 0;
+}
+.container .head-nut h3 {
+    margin-bottom: 15px;
+}
+.container .head-nut table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.container .head-nut table tr.border-bottom {
+    border-bottom: 2px solid #9e9e9e63;
+}
+.container .head-nut table td {
+    padding: 15px;
+}
+.container .head-nut table td.text-red {
+    color: #795548;
+}
+
